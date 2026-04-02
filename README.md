@@ -44,8 +44,8 @@ The 6-bit address for the ROM is formed by concatenating the 3-bit $n$ and 3-bit
    - Example: Set $n = 5$ (`101`) and $r = 2$ (`010`). The result will be $10$ (`001010` in binary / `A` in hex).
 
 ## 👥 Authors
-- **24bCE123**
-- **24bCE122**
+- **24bCE122 Neel Shah **
+- **24bCE123  Dev Patel**
 
 ---
 *Created for Computer Organization and Architecture Lab - High-performance combinatorial logic using ROM.*
